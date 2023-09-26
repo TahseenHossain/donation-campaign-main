@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Donation = ({ donatedCharity }) => {
     const {
         id,
@@ -43,12 +45,15 @@ const Donation = ({ donatedCharity }) => {
                     <h3 className="ml-4 text-xl font-semibold" style={priceColor}>
                         ${price}
                     </h3>
-                    <button
-                        className="text-white p-2 text-center w-36 h-10 rounded text-lg font-semibold m-4"
-                        style={bgColor}
-                    >
-                        View Details
-                    </button>
+                    <Link to = {`/fund/${id}`} >
+                        <button
+                            className="text-white p-2 text-center w-36 h-10 rounded text-lg font-semibold m-4"
+                            style={bgColor}
+                        >
+                            View Details
+                        </button>
+                    </Link>
+
                 </div>
             </div>
         </div>
