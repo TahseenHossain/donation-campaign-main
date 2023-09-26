@@ -11,8 +11,9 @@ const saveDonated = id =>{
     const exists = donateds.find(jobId => jobId === id);
     if(!exists){
         donateds.push(id);
-        localStorage.setItem('donation', JSON.stringify(donateds))
+        localStorage.setItem('donation', JSON.stringify(donateds));
+        return true;
     }
-    
+    return false;    
 }
-export {getDonated,saveDonated}
+export {getDonated,saveDonated};

@@ -14,10 +14,15 @@ const Details = () => {
   };
 
   const handleAddToDonated = () => {
-    saveDonated(idInt);
-    toast("Successful");
+    const success = saveDonated(idInt);
+    if(success){
+      toast.success("Successful");
+    }
+    else{
+      toast.error("Donated Already ");
+    }
   };
-  
+
   return (
     <div className="mt-20 lg-[700px] ">
       <div className="relative">
