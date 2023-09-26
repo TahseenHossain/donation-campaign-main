@@ -19,6 +19,8 @@ const Donations = () => {
     }
   }, []);
 
+
+  
   return (
     <div className="mt-20">
       <div className="grid sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-6 ml-2 md:ml-16 lg:ml-12 md:ml-0 lg:ml-0">
