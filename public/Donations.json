@@ -1,0 +1,134 @@
+[ 
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/7Jsx5F2/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_color": "#f8714726",
+        "button_color": "#F8714733",
+        "text_color": "#F87147",
+        "description": "Support programs that provide nutritious meals to disadvantaged communities and fight hunger.",
+        "price": 130.0
+      },
+      {
+        "id": 2,
+        "picture": "https://i.ibb.co/VWB5Y19/Education.png",
+        "title": "Good Education",
+        "category": "Education",
+        "category_color": "#ff444a26",
+        "button_color": "#FF444A33",
+        "text_color": "#FF444A",
+        "description": "Support quality education initiatives to ensure a bright future for students around the world.",
+        "price": 150.0
+      },
+      {
+        "id": 3,
+        "picture": "https://i.ibb.co/qMr8Bkx/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_color": "#79c23f26",
+        "button_color": "#79c23f33",
+        "text_color": "#79C23F",
+        "description": "Donate your gently used clothing to those in need. Help keep someone warm this winter.",
+        "price": 110.0
+      },
+      {
+        "id": 4,
+        "picture": "https://i.ibb.co/s13nqGG/Health.png",
+        "title": "Clean Water for Children",
+        "category": "Health",
+        "category_color": "#0052ff26",
+        "button_color": "#0052ff33",
+        "text_color": "#0052FF",
+        "description": "Provide clean and safe drinking water to children in need. Help make a difference in their lives.",
+        "price": 120.0
+      },
+      {
+        "id": 5,
+        "picture": "https://i.ibb.co/7Jsx5F2/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_color": "#f8714726",
+        "button_color": "#F8714733",
+        "text_color": "#F87147",
+        "description": "Support programs that provide nutritious meals to disadvantaged communities and fight hunger.",
+        "price": 130.0
+      },
+      {
+        "id": 6,
+        "picture": "https://i.ibb.co/VWB5Y19/Education.png",
+        "title": "Good Education",
+        "category": "Education",
+        "category_color": "#ff444a26",
+        "button_color": "#FF444A33",
+        "text_color": "#FF444A",
+        "description": "Support quality education initiatives to ensure a bright future for students around the world.",
+        "price": 150.0
+      },
+      {
+        "id": 7,
+        "picture": "https://i.ibb.co/qMr8Bkx/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_color": "#79c23f26",
+        "button_color": "#79c23f33",
+        "text_color": "#79C23F",
+        "description": "Donate your gently used clothing to those in need. Help keep someone warm this winter.",
+        "price": 110.0
+      },
+      {
+        "id": 8,
+        "picture": "https://i.ibb.co/7Jsx5F2/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_color": "#f8714726",
+        "button_color": "#F8714733",
+        "text_color": "#F87147",
+        "description": "Support programs that provide nutritious meals to disadvantaged communities and fight hunger.",
+        "price": 130.0
+      },
+      {
+        "id": 9,
+        "picture": "https://i.ibb.co/s13nqGG/Health.png",
+        "title": "Clean Water for Children",
+        "category": "Health",
+        "category_color": "#0052ff26",
+        "button_color": "#0052ff33",
+        "text_color": "#0052FF",
+        "description": "Provide clean and safe drinking water to children in need. Help make a difference in their lives.",
+        "price": 120.0
+      },
+      {
+        "id": 10,
+        "picture": "https://i.ibb.co/VWB5Y19/Education.png",
+        "title": "Good Education",
+        "category": "Education",
+        "category_color": "#ff444a26",
+        "button_color": "#FF444A33",
+        "text_color": "#FF444A",
+        "description": "Support quality education initiatives to ensure a bright future for students around the world.",
+        "price": 150.0
+      },
+      {
+        "id": 11,
+        "picture": "https://i.ibb.co/qMr8Bkx/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_color": "#79c23f26",
+        "button_color": "#79c23f33",
+        "text_color": "#79C23F",
+        "description": "Donate your gently used clothing to those in need. Help keep someone warm this winter.",
+        "price": 110.0
+      },
+      {
+        "id": 12,
+        "picture": "https://i.ibb.co/7Jsx5F2/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_color": "#f8714726",
+        "button_color": "#F8714733",
+        "text_color": "#F87147",
+        "description": "Support programs that provide nutritious meals to disadvantaged communities and fight hunger.",
+        "price": 130.0
+      }
+]
